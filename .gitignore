@@ -29,7 +29,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+### VS Code ###Sometimes. There. 's. A 27. Play. Do you have time? To. And then. 
 .vscode/
 
 ### Ignore application properties
@@ -37,3 +37,4 @@ build/
 
 ### Ignore log files
 *.log
+Kumar.
